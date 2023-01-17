@@ -1,0 +1,100 @@
+# 1 玩家1
+# 2 玩家2
+# 3 雪花
+# 4 喷火龙
+# 5 向上平台窄
+# 6 向下平台窄
+# 7 向上平台宽
+# 8 向下平台宽
+# 9 不动平台窄
+# 10 不动平台宽
+# 11 橙鼻涕怪
+# 12 紫鼻涕怪
+# 13 绿舌头怪
+# 14 黄舌头怪
+# 15 上喷火龙
+# 16 溜冰人
+# 17 乌鸦
+# 18 下降怪
+# 19 刺儿
+# 20 下喷火龙
+
+# 1 玩家1
+WAN_JIA_1 = 1
+PLAYER1 = 1
+
+# 2 玩家2
+WAN_JIA_2 = 2
+PLAYER2 = 2
+
+# 3 雪花
+XUE_HUA = 3
+SNOW = 3
+
+# 4 喷火龙
+PEN_HUO_LONG = 4
+DRAGON = 4
+
+# 5 向上平台窄
+XIANG_SHANG_PING_TAI_ZHAI = 5
+UP_PLATFORM_NARROW = 5
+
+# 6 向下平台窄
+XIANG_XIA_PING_TAI_ZHAI = 6
+DOWN_PLATFORM_NARROW = 6
+
+# 7 向上平台宽
+XIANG_SHANG_PING_TAI_KUAN = 7
+UP_PLATFORM_WIDE = 7
+
+# 8 向下平台宽
+XIANG_XIA_PING_TAI_KUAN = 8
+DOWN_PLATFORM_WIDE = 8
+
+# 9 不动平台窄
+BU_DONG_PING_TAI_ZHAI = 9
+STABLE_PLATFORM_NARROW = 9
+
+# 10 不动平台宽
+BU_DONG_PING_TAI_KUAN = 9
+STABLE_PLATFORM_WIDE = 9
+
+# 11 橙鼻涕怪
+CHENG_BI_TI_GUAI = 11
+ORANGE_SNOT = 11
+
+# 12 紫鼻涕怪
+ZI_BI_TI_GUAI = 12
+PURPLE_SNOT = 12
+
+# 13 绿舌头怪
+LV_SHE_TOU_GUAI = 13
+GREEN_TONGUE = 13
+
+# 14 黄舌头怪
+HUANG_SHE_TOU_GUAI = 14
+YELLOW_TONGUE = 14
+
+# 15 上喷火龙
+SHANG_PEN_HUO_LONG = 15
+DRAGON_UP = 15
+
+# 16 溜冰人
+LIU_BING_REN = 16
+SKATER = 16
+
+# 17 乌鸦
+WU_YA = 17
+CRAW = 17
+
+# 18 下降怪
+XIA_JIANG_GUAI = 18
+CAN_DOWN = 18
+
+# 19 刺儿
+CI_ER = 19
+THORN = 19
+
+# 20 下喷火龙
+XIA_PEN_HUO_LONG = 20
+DRAGON_DOWN = 20
